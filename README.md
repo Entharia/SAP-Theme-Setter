@@ -23,7 +23,7 @@ WshShell.RegWrite "HKEY_CURRENT_USER\SOFTWARE\SAP\General\Appearance\SelectedThe
 2. Set Up Auto Start (Optional)
 If you want the script to run automatically every time you log in, you need to place it in the Startup folder:
 
-1. Copy SetSapTheme.vbs to the Startup folder:
+### Copy SetSapTheme.vbs to the Startup folder:
 - Press Win + R, type shell:startup, and press Enter.
 - Place SetRegistryValue.vbs in this folder.
 
