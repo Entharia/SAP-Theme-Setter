@@ -18,7 +18,7 @@ To apply a different theme, simply modify the script with your preferred value.
 1. Modify the Script (Optional)
 ```vbscript
 Set WshShell = CreateObject("WScript.Shell")
-WshShell.RegWrite "HKEY_CURRENT_USER\SOFTWARE\SAP\General\Appearance\SelectedTheme", 80, "REG_DWORD"
+WshShell.RegWrite "HKEY_CURRENT_USER\SOFTWARE\SAP\General\Appearance\SelectedTheme", 128, "REG_DWORD"
 ```
 2. Set Up Auto Start (Optional)
 If you want the script to run automatically every time you log in, you need to place it in the Startup folder:
