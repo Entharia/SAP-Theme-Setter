@@ -13,6 +13,20 @@ The value is set to `80`.
 
 To apply a different theme, simply modify the script with your preferred value.
 
+Quartz Theme	20248
+Quartz Dark Theme	16384
+Quartz High Contrast Black	4096
+Quartz High Contrast White	8192
+Belize Theme	256
+Belize High Contrast Black	512
+Belize High Contrast White	1024
+Blue Crystal Theme	128
+Corbu Theme	64
+SAP Signature Theme	1
+SAP Signature Theme High Contrast Black	2
+Classic Theme	32
+
+
 
 ## Setup Instructions
 1. Modify the Script (Optional)
