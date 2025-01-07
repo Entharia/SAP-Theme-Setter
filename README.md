@@ -9,7 +9,7 @@ A simple script designed to automatically set the SAP theme by modifying a speci
 ## How It Works
 
 The script changes the value of the `SelectedTheme` in the following registry key: HKEY_CURRENT_USER\SOFTWARE\SAP\General\Appearance\SelectedTheme
-The value is set to `80`.
+The value is set to `80` by default.
 
 To apply a different theme, simply modify the script with your preferred value.
 
